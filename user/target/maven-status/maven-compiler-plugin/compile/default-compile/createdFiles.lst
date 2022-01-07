@@ -1,0 +1,7 @@
+com\webapp\UserApplication.class
+com\webapp\UserRepository.class
+com\webapp\CustomUserDetailsService.class
+com\webapp\CustomUserDetails.class
+com\webapp\AppController.class
+com\webapp\WebSecurityConfig.class
+com\webapp\User.class
